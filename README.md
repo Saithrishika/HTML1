@@ -1,2 +1,2 @@
-# HTML1
+# javaScript
 E-commerce website
